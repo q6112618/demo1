@@ -1,0 +1,16 @@
+.main{
+    background: white;
+    margin: 30px;
+}
+body{
+    background: #3e8f3e;
+}
+.btn-publish{
+    float: right;
+    margin: 20px
+;
+}
+.tow-div{
+    background: red;
+
+}
